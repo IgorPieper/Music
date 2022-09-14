@@ -1,0 +1,7 @@
+Welcome to Paradise
+
+Jest to pierwszy utwór rozpoczynający płytę.
+Rozpoczyna się on słowami narratora witającymi nas w tej wspaniałej krainie. Jego głos przypomina lektora z bardzo starych reklam telewizyjnych.
+Utwór trwa około półtora minuty. Przez jego cały ciąg słychać głos narratora.
+Wraz z rozwojem coraz głośniej słychać spokojną, przyjazną melodię towarzyszącą narratorowi.
+Głos narratora w kilku momentach jest objęty kilkoma glitch'ami dźwięku, które jednak nie dotykają melodii
