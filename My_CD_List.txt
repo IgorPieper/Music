@@ -76,7 +76,6 @@ Five Finger Death Punch – The way of the Fist
 Five Finger Death Punch – The Wrong Side of Heaven Volume 1
 Five Finger Death Punch – The Wrong Side of Heaven Volume 2
 Five Finger Death Punch – War is the Answer
-Franek Kimono - Franek Kimono
 Ghost - Impera
 Ghost – Meliora
 Ghost – Opus Eponymous
@@ -159,9 +158,11 @@ KSU – 21
 KSU - 44
 KSU – Epilog
 KSU – Moje Bieszczady
+KSU - Nasze Słowa
 KSU – Okrutny Świat
 KSU – Pod Prąd
 KSU – Przystanek Woodstock 2005
+KSU - Ustrzyki
 Led Zeppelin - Led Zeppelin 1
 Łydka Grubasa - ĘĆ
 Łydka Grubasa – O-dur C-ból
@@ -321,6 +322,7 @@ Turbo – Strażnik Światła
 Turbo – Tożsamość
 Vader – De Profundis
 Vader – Solitude in Madness
+Vader - The Empire
 Venom – Welcome to Hell
 Volbeat – Rewind Repaly Rebound
 Zacier – Konfabuacje?
